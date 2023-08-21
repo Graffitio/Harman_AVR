@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ADC_CDS", "ADC_CDS\ADC_CDS.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ADC_CDS_VariableReg", "ADC_CDS_VariableReg\ADC_CDS_VariableReg.cproj", "{D1B313CA-3C1A-40CB-B0ED-52C604AD057F}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ADC_LCD", "ADC_LCD\ADC_LCD.cproj", "{704AA558-3D13-4277-A3E4-C91A6250DBD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{D1B313CA-3C1A-40CB-B0ED-52C604AD057F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D1B313CA-3C1A-40CB-B0ED-52C604AD057F}.Debug|AVR.Build.0 = Debug|AVR
+		{D1B313CA-3C1A-40CB-B0ED-52C604AD057F}.Release|AVR.ActiveCfg = Release|AVR
+		{D1B313CA-3C1A-40CB-B0ED-52C604AD057F}.Release|AVR.Build.0 = Release|AVR
+		{704AA558-3D13-4277-A3E4-C91A6250DBD2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{704AA558-3D13-4277-A3E4-C91A6250DBD2}.Debug|AVR.Build.0 = Debug|AVR
+		{704AA558-3D13-4277-A3E4-C91A6250DBD2}.Release|AVR.ActiveCfg = Release|AVR
+		{704AA558-3D13-4277-A3E4-C91A6250DBD2}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
